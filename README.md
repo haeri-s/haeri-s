@@ -24,7 +24,8 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
 </p>
-
+<br/>
+<br/>
 
 <!--
 **haeri-s/haeri-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
